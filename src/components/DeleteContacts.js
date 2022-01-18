@@ -8,4 +8,4 @@ const DeleteContacts = () => {
     );
 };
 
-export default DeleteContacts;
+export default `DeleteContacts`;
